@@ -1,0 +1,45 @@
+PODS:
+  - Charts (3.4.0):
+    - Charts/Core (= 3.4.0)
+  - Charts/Core (3.4.0)
+  - ChartsRealm (3.4.0):
+    - Charts (~> 3.4.0)
+    - RealmSwift (~> 3.18.0)
+  - FSCalendar (2.8.4)
+  - Locksmith (4.0.0)
+  - Realm (3.18.0):
+    - Realm/Headers (= 3.18.0)
+  - Realm/Headers (3.18.0)
+  - RealmSwift (3.18.0):
+    - Realm (= 3.18.0)
+  - SwiftKeychainWrapper (4.0.1)
+
+DEPENDENCIES:
+  - Charts
+  - ChartsRealm
+  - FSCalendar
+  - Locksmith
+  - SwiftKeychainWrapper
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - ChartsRealm
+    - FSCalendar
+    - Locksmith
+    - Realm
+    - RealmSwift
+    - SwiftKeychainWrapper
+
+SPEC CHECKSUMS:
+  Charts: 74c9f256eaf0460c0c416522d1cf8c634ea6b286
+  ChartsRealm: 2ae8bf478211a94b3b6dd20738db0b9b132eb66b
+  FSCalendar: 2d1d0d9398f12d439f55c1fe0f01525b151b8260
+  Locksmith: e9bebbaaa4cee3c511bc358a44f843c3fe00e21f
+  Realm: 7b3d04740facf45e958a514b466a32b04f1113d6
+  RealmSwift: c817b5f374668cf08f649afb05f55d92a787649c
+  SwiftKeychainWrapper: 807ba1d63c33a7d0613288512399cd1eda1e470c
+
+PODFILE CHECKSUM: 699161a7c6512c375eae5b0193ff13db1b0d58c7
+
+COCOAPODS: 1.11.3
